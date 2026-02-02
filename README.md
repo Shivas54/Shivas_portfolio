@@ -55,8 +55,9 @@
 ✔ Notebook-based Analysis  
 
 ---
-
-![Quote](https://capsule-render.vercel.app/api?type=rect&height=230&text=You%20can%27t%20go%20back%20and%20change%20the%20beginning.%0AStart%20where%20you%20are.%0AChange%20the%20ending.&fontSize=26&color=0:141E30,100:243B55&fontColor=ffffff&desc=%E2%80%94%20C.S.%20Lewis&descSize=20)
+> You can't go back and change the beginning.  
+> Start where you are and change the ending.  
+> — C.S. Lewis
 
 
 ---

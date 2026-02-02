@@ -50,11 +50,8 @@ I have practical knowledge in **Python, SQL, Excel, Power BI, and Linux**, and I
 ![Quote](https://capsule-render.vercel.app/api?type=rect&height=180&text=Start%20where%20you%20are%20and%20change%20the%20ending&fontSize=24&color=0:141E30,100:243B55&fontColor=ffffff&desc=—%20C.S.%20Lewis&descSize=18)
 
 ---
-## 🟡 Pac-Man Contribution Graph
-
-![Pac-Man](https://raw.githubusercontent.com/Shivas54/Shivas54/output/pacman-contribution-graph.svg)
 
 
----
+
 
 [![](https://visitcount.itsvg.in/api?id=Shivas54&icon=0&color=0)](https://visitcount.itsvg.in)

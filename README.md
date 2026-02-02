@@ -50,8 +50,7 @@ I have practical knowledge in **Python, SQL, Excel, Power BI, and Linux**, and I
 ![Quote](https://capsule-render.vercel.app/api?type=rect&height=180&text=Start%20where%20you%20are%20and%20change%20the%20ending&fontSize=24&color=0:141E30,100:243B55&fontColor=ffffff&desc=—%20C.S.%20Lewis&descSize=18)
 
 ---
-
-![Mario Banner](https://capsule-render.vercel.app/api?type=waving&color=F7D358&height=200&section=header&text=Welcome%20to%20Shivas's%20GitHub!&fontSize=40&fontColor=2E2E2E&animation=twinkling)
+![Retro Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=Game%20On%20🚀%20Building%20Data%20Projects%20Like%20Levels&fontSize=30&fontAlign=50&fontColor=ffffff)
 
 
 ---

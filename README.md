@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=170&section=header&text=Shivas%20A%20|%20Data%20Engineer%20%F0%9F%93%8A&fontSize=34&fontColor=ffffff"/>
-</p>
 
 <h2 align="center">👋 Hi, I'm Shivas</h2>
 

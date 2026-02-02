@@ -1,5 +1,9 @@
-🎯 Aspiring Data Analyst | Future Data Engineer | Immediate Joiner  
-📍 Open to on-site opportunities in Chennai  
+<h2 align="center">👋 Hi there, I'm Shivas</h2>
+
+<p align="center">
+🎯 Aspiring Data Analyst & Data Engineer | Python • SQL • Power BI <br>
+📍 Chennai, India | 🚀 Immediate Joiner
+</p>
 
 ---
 

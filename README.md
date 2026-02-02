@@ -17,8 +17,7 @@ I have practical knowledge in **Python, SQL, Excel, Power BI, and Linux**, and I
 
 ### 👨‍💻 Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white) 
 
 ### 📊 Data Analytics  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  

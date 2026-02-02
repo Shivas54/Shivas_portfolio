@@ -1,3 +1,20 @@
+🎯 Aspiring Data Analyst | Future Data Engineer | Immediate Joiner  
+📍 Open to on-site opportunities in Chennai  
+
+---
+
+## 🚀 About Me
+
+I am a data enthusiast passionate about turning raw data into actionable insights that drive smarter decisions. I have built a strong foundation in **Python, SQL, Excel, and Power BI**, along with core data engineering concepts such as **ETL pipelines, data modelling, and warehouse architecture**.
+
+My learning journey is driven by curiosity about how data flows through systems and creates business value. I enjoy solving structured problems, building real-world projects, and continuously improving my technical expertise to align with industry standards.
+
+
+✔ Strong self-learner  
+✔ Project-focused mindset  
+✔ Production-style thinking  
+✔ Ready for immediate joining  
+
 ---
 
 ## 🧠 Technical Skills

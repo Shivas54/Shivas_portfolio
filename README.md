@@ -1,92 +1,60 @@
+---
 
-<h2 align="center">👋 Hi, I'm Shivas</h2>
+## 🧠 Technical Skills
 
-<p align="center">
-🚀 Aspiring Data Engineer | 📊 Data Analyst | 🐧 Linux Enthusiast <br>
-📍 Chennai, India | ✅ Immediate Joiner
-</p>
+<h3>
+  <p><b>👨‍💻 Programming & Query Languages</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=python,mysql&titles=true"/>
+  </a>
+</h3>
+
+✔ Data Manipulation  
+✔ Query Optimisation  
+✔ Problem Solving  
 
 ---
 
-### 💡 About Me
+<h3>
+  <p><b>📊 Data Analytics & Visualization</b></p>
+  <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel&titles=true"/>
+  </a>
+</h3>
 
-I am a **data-driven fresher** passionate about transforming raw data into meaningful insights.
-
-My journey started with **Linux**, which built my curiosity about how systems handle data at scale.  
-From there, I developed strong foundations in:
-
-✔ SQL  
-✔ Python  
-✔ Excel  
-✔ Power BI  
-✔ Data Engineering Concepts  
-
-I enjoy building **real-world data projects**, designing pipelines, and solving business problems using analytics.
-
-👉 **Currently seeking entry-level Data Analyst / Data Engineer opportunities.**
-
----
-
-### 🧠 Core Skills
-
-#### 👨‍💻 Programming & Query Languages
-<p>
-  <img src="https://skill-icons-fast.vercel.app/api/icons?i=python,mysql&titles=true"/>
-</p>
-
-#### 📊 Data Analytics
-<p>
-  <img src="https://skill-icons-fast.vercel.app/api/icons?i=excel&titles=true"/>
-</p>
-
-✔ Data Cleaning  
-✔ Data Transformation  
-✔ Exploratory Data Analysis  
 ✔ Dashboard Development  
-
----
-
-#### ⚙️ Data Engineering Stack
-<p>
-  <img src="https://skill-icons-fast.vercel.app/api/icons?i=linux,git,github,bash&titles=true"/>
-</p>
-
-✔ ETL Fundamentals  
-✔ Data Modelling  
-✔ Pipeline Concepts  
-✔ Warehouse Basics  
-
----
-
-#### 📈 Visualisation Tools
-<p>
-  <img src="https://skill-icons-fast.vercel.app/api/icons?i=powerbi&titles=true"/>
-</p>
-
-✔ Interactive Dashboards  
 ✔ KPI Reporting  
 ✔ Business Insights  
+✔ Data Cleaning & Transformation  
 
 ---
 
+<h3>
+  <p><b>⚙️ Data Engineering Fundamentals</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=linux,bash&titles=true"/>
+  </a>
+</h3>
 
-### 🔥 What Makes Me Different?
-
-✔ Strong fundamentals (not tutorial-based knowledge)  
-✔ Project-focused learning  
-✔ Linux + Data combo (rare for freshers 🔥)  
-✔ Immediate joiner  
-  
----
-
-### 🎯 2026 Goals
-
-✅ Land a Data Analyst / Data Engineer role  
-✅ Master advanced SQL  
-✅ Build production-level pipelines  
+✔ ETL Pipelines  
+✔ Data Modelling  
+✔ Bronze → Silver → Gold Architecture  
+✔ Warehouse Concepts  
 
 ---
 
-<p align="center">
-💼 Open to Data opportunities — let's turn data into decisions!
-</p>
+<h3>
+  <p><b>💻 Development Environment</b></p>
+  <a href="#">
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,jupyter,github,git&titles=true"/>
+  </a>
+</h3>
+
+✔ Version Control  
+✔ Collaborative Development  
+✔ Notebook-based Analysis  
+
+---
+![Quote](https://capsule-render.vercel.app/api?type=rect&height=200&text=You%20can%27t%20go%20back%20and%20change%20the%20beginning.%0ABut%20you%20can%20start%20where%20you%20are%20and%20change%20the%20ending.&fontSize=24&color=0:141E30,100:243B55&fontColor=ffffff&desc=%E2%80%94%20C.S.%20Lewis&descSize=20)
+
+---

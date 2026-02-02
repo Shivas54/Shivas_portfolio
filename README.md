@@ -1,57 +1,95 @@
-# 💫 About Me:
-I recently completed my **B.E. in Computer Science**, with a strong passion for working with data and using technology to solve real-world problems.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=170&section=header&text=Shivas%20A%20|%20Data%20Engineer%20%F0%9F%93%8A&fontSize=34&fontColor=ffffff"/>
+</p>
 
-I have practical knowledge in **Python, SQL, Excel, Power BI, and Linux**, and I enjoy analysing datasets, building structured workflows, and delivering insights that support data-driven decision-making.
+<h2 align="center">👋 Hi, I'm Shivas</h2>
 
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR-LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=firefox&logoColor=white)](YOUR-PORTFOLIO)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Shivas54)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](YOUR-INSTAGRAM)
+<p align="center">
+🚀 Aspiring Data Engineer | 📊 Data Analyst | 🐧 Linux Enthusiast <br>
+📍 Chennai, India | ✅ Immediate Joiner
+</p>
 
 ---
 
-# 💻 Tech Stack:
+### 💡 About Me
 
-### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white) 
+I am a **data-driven fresher** passionate about transforming raw data into meaningful insights.
 
-### 📊 Data Analytics  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)  
-![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+My journey started with **Linux**, which built my curiosity about how systems handle data at scale.  
+From there, I developed strong foundations in:
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+✔ SQL  
+✔ Python  
+✔ Excel  
+✔ Power BI  
+✔ Data Engineering Concepts  
 
-### 🐧 Operating System  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I enjoy building **real-world data projects**, designing pipelines, and solving business problems using analytics.
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+👉 **Currently seeking entry-level Data Analyst / Data Engineer opportunities.**
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shivas54&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shivas54&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivas54&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🧠 Core Skills
+
+#### 👨‍💻 Programming & Query Languages
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=python,mysql&titles=true"/>
+</p>
+
+#### 📊 Data Analytics
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=excel&titles=true"/>
+</p>
+
+✔ Data Cleaning  
+✔ Data Transformation  
+✔ Exploratory Data Analysis  
+✔ Dashboard Development  
+
+---
+
+#### ⚙️ Data Engineering Stack
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=linux,git,github,bash&titles=true"/>
+</p>
+
+✔ ETL Fundamentals  
+✔ Data Modelling  
+✔ Pipeline Concepts  
+✔ Warehouse Basics  
+
+---
+
+#### 📈 Visualisation Tools
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=powerbi&titles=true"/>
+</p>
+
+✔ Interactive Dashboards  
+✔ KPI Reporting  
+✔ Business Insights  
 
 ---
 
 
-### ✍️ Developer Quote
-![Quote](https://capsule-render.vercel.app/api?type=rect&height=180&text=Start%20where%20you%20are%20and%20change%20the%20ending&fontSize=24&color=0:141E30,100:243B55&fontColor=ffffff&desc=—%20C.S.%20Lewis&descSize=18)
+### 🔥 What Makes Me Different?
+
+✔ Strong fundamentals (not tutorial-based knowledge)  
+✔ Project-focused learning  
+✔ Linux + Data combo (rare for freshers 🔥)  
+✔ Immediate joiner  
+  
+---
+
+### 🎯 2026 Goals
+
+✅ Land a Data Analyst / Data Engineer role  
+✅ Master advanced SQL  
+✅ Build production-level pipelines  
 
 ---
 
-
-
-
-[![](https://visitcount.itsvg.in/api?id=Shivas54&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+💼 Open to Data opportunities — let's turn data into decisions!
+</p>

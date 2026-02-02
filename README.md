@@ -51,4 +51,9 @@ I have practical knowledge in **Python, SQL, Excel, Power BI, and Linux**, and I
 
 ---
 
+![Mario Banner](https://capsule-render.vercel.app/api?type=waving&color=F7D358&height=200&section=header&text=Welcome%20to%20Shivas's%20GitHub!&fontSize=40&fontColor=2E2E2E&animation=twinkling)
+
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Shivas54&icon=0&color=0)](https://visitcount.itsvg.in)

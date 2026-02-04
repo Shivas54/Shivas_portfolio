@@ -14,11 +14,6 @@ I am a data enthusiast passionate about turning raw data into actionable insight
 My learning journey is driven by curiosity about how data flows through systems and creates business value. I enjoy solving structured problems, building real-world projects, and continuously improving my technical expertise to align with industry standards.
 
 
-✔ Strong self-learner  
-✔ Project-focused mindset  
-✔ Production-style thinking  
-✔ Ready for immediate joining  
-
 ---
 
 ## 🧠 Technical Skills
